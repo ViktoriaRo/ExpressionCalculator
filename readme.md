@@ -1,4 +1,4 @@
-**Description of the project**
+# Description of the project
 
 The project is an object-oriented program 
 named _Expression Calculator_. The program takes 
@@ -10,12 +10,12 @@ syntax for expressions is implemented as shown in slides.
  program. Also expression calculation is implemented as 
  tree traversal.
  
- **Dependencies**
+ # Dependencies
 
 The project uses _gradle_ for test cases so your system should 
 support that, as well as _java sdk 1.8_.
 
-**How to build and run project**
+# How to build and run project
 
 If you have Intellij IDEA, then put the project folder into IdeaProjects 
 then open it from IDEA. For building it press `Ctrl` + `F9`, and for 
